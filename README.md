@@ -9,3 +9,9 @@
 - High interpersonal skills, I love teamwork, good communication.
 
 ### Technologies
+- html
+- css
+- JavaScript
+- React
+- Vercel
+  
